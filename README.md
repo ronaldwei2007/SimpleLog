@@ -9,3 +9,9 @@ customized log
   can be add more feature
 
 turn on/off programming
+
+Install:
+$yarn install 
+$nodemon server.js
+open localhost:4000  at chrome 
+
