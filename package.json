@@ -1,0 +1,13 @@
+{
+  "name": "simpleLog",
+  "version": "1.0.0",
+  "description": "for javascript standard log or customiz your own log or turn on/off",
+  "main": "app.js",
+  "author": "Ronald Wei",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
